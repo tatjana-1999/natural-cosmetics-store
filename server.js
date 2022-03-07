@@ -11,14 +11,8 @@ import {
   updateDoc,
 } from "firebase/firestore";
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDTWxzf28Y8CGD1WkI5FospV9GoxcXti5U",
-  authDomain: "ncosmetics-3d5e9.firebaseapp.com",
-  projectId: "ncosmetics-3d5e9",
-  storageBucket: "ncosmetics-3d5e9.appspot.com",
-  messagingSenderId: "574239164839",
-  appId: "1:574239164839:web:e09c4772ec047b80610e82",
+ // Firebase configuration
 };
 
 // Initialize Firebase
